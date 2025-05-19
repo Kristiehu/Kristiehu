@@ -45,7 +45,7 @@ With a Master’s in Geomatics from the University of Waterloo, I build bridges 
 ## 🔗 Check It Out
 
 🌍 [**kristiehu.com**](http://kristiehu.com) – portfolio & blog  
-📬 [**Contact Me**](https://www.linkedin.com/in/kristie-hu/) – let's collaborate!
+📬 [**Contact Me**](https://www.linkedin.com/in/kristiehu/) – let's collaborate!
 
 ---
 
