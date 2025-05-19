@@ -27,9 +27,8 @@ Work-in-progress notebooks exploring spectral signature analysis for environment
 
 Hi there! I'm **Kristie Hu**, a **GIS Application Analyst**, **Network Designer**, and **Data Visualization Enthusiast** based in Toronto 🇨🇦.
 
-With a Master’s in Geomatics from the University of Waterloo, I build bridges between technical datasets and intuitive visual experiences. Whether it’s wrangling spatial data, automating reports, or deploying web maps, my goal is always the same: **make complex insights simple and interactive**.
+With a Master’s in Geomatics from the University of Waterloo, I build bridges between technical datasets and intuitive visual experiences. Whether it’s wrangling spatial data, automating reports, or deploying web maps, my goal is always the same: **make complex insights simple and interactive** 💡.
 
-:bulb: Remember to appreciate the little things in life 🌱.
 
 ---
 
