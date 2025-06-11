@@ -19,7 +19,7 @@ Dynamic Excel-to-map converter showing port usage across the network. Supports C
 🛰️ **[Hyperspectral Image Analytics](https://github.com/KristieHu/)**  
 Work-in-progress notebooks exploring spectral signature analysis for environmental monitoring using Python and machine learning.
 
-> * I’m driven by the power of location intelligence to bring insight and efficiency to real-world problems. Let’s connect to explore collaboration, innovation, and the future of smart geospatial solutions. *
+>  I’m driven by the power of location intelligence to bring insight and efficiency to real-world problems. Let’s connect to explore collaboration, innovation, and the future of smart geospatial solutions.
 
 ---
 
