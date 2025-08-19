@@ -14,11 +14,10 @@
 
 ## 🗺️ Projects & Interactive Maps
 
-🧭 **[Interactive NPOP Heatmap & Port Capacity Dashboard](https://github.com/KristieHu/Leaflet-Npop-Map)**  
-Visualizes network infrastructure with clustering, spiderfied markers, and search-enhanced interactivity. Built with `Leaflet.js`, `PapaParse`, `XLSX.js`, `MarkerCluster`, and `OverlappingMarkerSpiderfier`.
-
-📦 **[Capacity Summary Dashboard](https://github.com/KristieHu/)**  
+🧭 **[Interactive NPOP Heatmap & Device Capacity Dashboard](https://github.com/KristieHu/Leaflet-Npop-Map)**  
 Dynamic Excel-to-map converter showing port usage across the network. Supports CSV parsing, capacity visualization, hover/click actions, and filtering.
+Visualizes network infrastructure with clustering, spiderfied markers, and search-enhanced interactivity in dashboards. 
+Built with `Leaflet.js`, `PapaParse`, `XLSX.js`, `MarkerCluster`, and `OverlappingMarkerSpiderfier`.
 
 🛰️ **[Hyperspectral Image Analytics](https://github.com/KristieHu/)**  
 Work-in-progress notebooks exploring spectral signature analysis for environmental monitoring using Python and machine learning.
