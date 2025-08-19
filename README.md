@@ -6,6 +6,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KristieHu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kristie-hu/)
 [![GitHub](https://img.shields.io/github/followers/KristieHu?style=flat-square)](https://github.com/KristieHu)
 
+### 📊 GitHub Contributions
+
+![GitHub streak](https://streak-stats.demolab.com?user=kristiehu&theme=dark)
+
 ---
 
 ## 🗺️ Projects & Interactive Maps
