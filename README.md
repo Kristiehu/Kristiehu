@@ -14,7 +14,7 @@
 
 ## 🗺️ Projects & Interactive Maps
 
-🧭 **[Leaflet NPOP Map](https://github.com/KristieHu/Leaflet-Npop-Map)**  
+🧭 **[Interactive NPOP Heatmap & Port Capacity Dashboard](https://github.com/KristieHu/Leaflet-Npop-Map)**  
 Visualizes network infrastructure with clustering, spiderfied markers, and search-enhanced interactivity. Built with `Leaflet.js`, `PapaParse`, `XLSX.js`, `MarkerCluster`, and `OverlappingMarkerSpiderfier`.
 
 📦 **[Capacity Summary Dashboard](https://github.com/KristieHu/)**  
