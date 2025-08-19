@@ -15,8 +15,7 @@
 ## 🗺️ Projects & Interactive Maps
 
 🧭 **[Interactive NPOP Heatmap & Device Capacity Dashboard](https://github.com/KristieHu/Leaflet-Npop-Map)**  
-Dynamic Excel-to-map converter showing port usage across the network. Supports CSV parsing, capacity visualization, hover/click actions, and filtering.
-Visualizes network infrastructure with clustering, spiderfied markers, and search-enhanced interactivity in dashboards. 
+Dynamic Excel-to-map converter - visualizes network infrastructure with clustering, spiderfied markers, and search-enhanced interactivity in dashboards. 
 Built with `Leaflet.js`, `PapaParse`, `XLSX.js`, `MarkerCluster`, and `OverlappingMarkerSpiderfier`.
 
 🛰️ **[Hyperspectral Image Analytics](https://github.com/KristieHu/)**  
