@@ -12,15 +12,6 @@
 
 ---
 
-## 🗺️ Projects & Interactive Maps
-
-🧭 **[Interactive NPOP Heatmap & Device Capacity Dashboard](https://github.com/KristieHu/Leaflet-Npop-Map)**  
-Dynamic Excel-to-map converter - visualizes network infrastructure with clustering, spiderfied markers, and search-enhanced interactivity in dashboards. 
-Built with `Leaflet.js`, `PapaParse`, `XLSX.js`, `MarkerCluster`, and `OverlappingMarkerSpiderfier`.
-
-🛰️ **[Hyperspectral Image Analytics](https://github.com/KristieHu/)**  
-Work-in-progress notebooks exploring spectral signature analysis for environmental monitoring using Python and machine learning.
-
 >  I’m driven by the power of location intelligence to bring insight and efficiency to real-world problems. Let’s connect to explore collaboration, innovation, and the future of smart geospatial solutions.
 
 ---
@@ -30,17 +21,6 @@ Work-in-progress notebooks exploring spectral signature analysis for environment
 Hi there! I'm **Kristie Hu**, a **GIS Application Analyst**, **Network Designer**, and **Data Visualization Enthusiast** based in Toronto 🇨🇦.
 
 With a Master’s in Geomatics from the University of Waterloo, I build bridges between technical datasets and intuitive visual experiences. Whether it’s wrangling spatial data, automating reports, or deploying web maps, my goal is always the same: **make complex insights simple and interactive** 💡.
-
-
----
-
-## ✨ Recent Work
-
-- 📌 Spiderfied features with `Leaflet`
-- 🧩 Custom search with dual filter (address/device) toggle
-- 🔁 API-powered geocoding fallback strategy (Postal > FSA > Addresses > fuzzy match)
-- 📈 Auto-generated port capacity reports with color-coded Excel formatting & Calculation
-- 🌐 GitHub Pages deployment with multi-layer UI map switch
 
 ---
 
