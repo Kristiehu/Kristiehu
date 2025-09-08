@@ -9,10 +9,11 @@
 ### 📊 GitHub Contributions
 
 ![GitHub streak](https://streak-stats.demolab.com?user=kristiehu&theme=dark)
-
 ---
 
->  I’m driven by the power of location intelligence to bring insight and efficiency to real-world problems. Let’s connect to explore collaboration, innovation, and the future of smart geospatial solutions.
+> *"Code the map you want to see in the world."*
+
+
 
 ---
 
@@ -24,11 +25,4 @@ With a Master’s in Geomatics from the University of Waterloo, I build bridges 
 
 ---
 
-## 🔗 Check It Out
-
-🌍 [**kristiehu.com**](http://kristiehu.com) – portfolio & blog  
-📬 [**Contact Me**](https://www.linkedin.com/in/kristiehu/) – let's collaborate!
-
----
-
-> *"Code the map you want to see in the world."*
+>  I’m driven by the power of location intelligence to bring insight and efficiency to real-world problems. Let’s connect to explore collaboration, innovation, and the future of smart geospatial solutions.
