@@ -1,4 +1,4 @@
-# 🌐 Kristie Hu · Geospatial Developer & Data Analyst
+# 🌐 Kristie Hu · Geospatial Developer & Data Engineer
 
 
 > *"Explore the world spatially — one dataset at a time."*
