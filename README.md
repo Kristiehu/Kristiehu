@@ -10,7 +10,7 @@
 ![GitHub streak](https://streak-stats.demolab.com?user=kristiehu&theme=dark)
 ---
 
-> * Explore the world spatially — one dataset at a time. *
+> *Explore the world spatially — one dataset at a time.*
 
 
 
