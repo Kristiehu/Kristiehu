@@ -2,7 +2,7 @@
 
 
 [![Website](https://img.shields.io/badge/Website-kristiehu.com-2ea44f?style=flat-square&logo=google-chrome)](http://kristiehu.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KristieHu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kristie-hu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KristieHu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kristiehu/)
 [![GitHub](https://img.shields.io/github/followers/KristieHu?style=flat-square)](https://github.com/KristieHu)
 
 ### 📊 GitHub Contributions
