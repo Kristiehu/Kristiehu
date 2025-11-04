@@ -7,7 +7,7 @@
 
 ### 📊 GitHub Contributions
 
-![GitHub streak](https://streak-stats.demolab.com?user=kristiehu&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kristiehu)](https://git.io/streak-stats)
 ---
 
 > *Explore the world spatially — one dataset at a time.*
