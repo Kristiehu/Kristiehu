@@ -1,4 +1,4 @@
-# 🌐 Kristie Hu · Geospatial Analyst & Data Engineer
+# 🌐 Kristie Hu · GIS Analyst & Data Engineer
 
 
 [![Website](https://img.shields.io/badge/Website-kristiehu.com-2ea44f?style=flat-square&logo=google-chrome)](http://kristiehu.com)
