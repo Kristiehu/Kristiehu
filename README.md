@@ -3,9 +3,6 @@
 > *one dataset at a time.*
 
 
-<details>
-  <summary><sub>[terminal view] 🌏 </sub>
- </summary>
 
   ```bash
   $ whoami
