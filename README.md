@@ -1,5 +1,5 @@
 
-> *Explore the world spatially — one dataset at a time.*
+
 
 
 
@@ -22,3 +22,4 @@ I’m driven by the power of location intelligence to bring insight and efficien
 
 ---
 
+> *Explore the world spatially — one dataset at a time.*
