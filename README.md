@@ -12,4 +12,4 @@
   spatial-etl | lidar-slam | digital-twins | spectral-imaging
 
   $ pwd
-  /urban/graphs/2d-3d
+  /urban/networks/2d-3d
