@@ -1,15 +1,15 @@
 
 
-> *one dataset at a time.*
+> *one innovation at a time.*
 
 
 
   ```bash
-  $ whoami
-  GIS Data Analyst & HSI Engineer
+$ whoami
+Data Analyst @ Beanfield & PhD Researcher @ UWaterloo
 
-  $ echo $INTERESTS
-  spatial-etl | lidar-slam | digital-twins | spectral-imaging
+$ echo $INTERESTS
+2D/3D-computer-vision | geo-ai | EFM/EO-FM | digital-twins | spectral-imaging
 
-  $ pwd
-  /urban/networks/2d-3d
+$ pwd
+/urban/networks/2d-3d
